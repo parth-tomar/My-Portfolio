@@ -20,3 +20,7 @@ their respective owners.
 
 <br>
 You can use this website however you want as long as you give credits.
+
+## Preview
+ 
+https://shaded.netlify.app/

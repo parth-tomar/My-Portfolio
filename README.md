@@ -14,7 +14,7 @@ website. I have listed some of my info and about my projects.
 
 ## License
 
-The code is released under the [MIT](https://github.com/ItsShaded/New-Website/blob/main/LICENSE)
+The code is released under the [MIT](https://github.com/parth-tomar/My-Portfolio/blob/main/LICENSE)
 license, while the rights to any art assets from 3rd parties belong to
 their respective owners.
 
